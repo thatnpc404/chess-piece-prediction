@@ -1,0 +1,1 @@
+Extract the "chess_completed_dataset.rar" to the same folder before running the file 
