@@ -1,2 +1,2 @@
 # chess-piece-prediction
-Next piece prediction in chess using GRU 
+Prediction of next optimal chess piece to be movewd using GRU. 
